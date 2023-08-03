@@ -1,0 +1,15 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+.bg-blue{
+    background-color: darkslateblue;
+}
+.header-h-screen{
+    min-height: 20vh;
+}
+.bg-black{
+    background-color: black;
+}
+.footer-h-screen{
+    min-height: 20vh;
+}
